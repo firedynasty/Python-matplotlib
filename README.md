@@ -12,6 +12,12 @@ The pie chart shows that ratio between male and female mice were about equal tha
 
 The boxplots show that the means and medians for Capomulin and Ramicane are very similar that the drug is more effective than Ifubinol and Ceftamin. 
 
+
+![Image of BoxPlot](https://github.com/firedynasty/Python-matplotlib/blob/master/boxplot.png)
+
 There is a strong correlation that the drug Capomulin affects tumor size. 
+
+
+
 
  
