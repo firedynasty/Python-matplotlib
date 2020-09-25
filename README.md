@@ -15,7 +15,9 @@ The boxplots show that the means and medians for Capomulin and Ramicane are very
 
 ![Image of BoxPlot](https://github.com/firedynasty/Python-matplotlib/blob/master/boxplot.png)
 
-There is a strong correlation that the drug Capomulin affects tumor size. 
+In the scatterplot it shows that there is a strong correlation that the drug Capomulin affects tumor size. 
+
+
 
 
 
